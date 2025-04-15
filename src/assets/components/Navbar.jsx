@@ -2,7 +2,7 @@
 import { ShoppingCart, User } from 'lucide-react'
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import logo from '../images/elelogo.png'
+import logo from '../../../public/images/elelogo.png'
 import { useSelector, useDispatch } from 'react-redux';
 import { setSearchTerm } from '../../features/products/ProductSlice';
 

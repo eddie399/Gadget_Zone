@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../images/elelogo.png'
+import logo from '../../../public/images/elelogo.png'
 import { Facebook, Instagram, Twitter, Youtube } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
