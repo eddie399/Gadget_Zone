@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
-import ProductDetails from './pages/productDetails'
+import ProductDetails from './pages/ProductDetails'
 import CartPage from './pages/CartPage'
 import Navbar from './assets/components/Navbar'
 import { Provider } from 'react-redux'
