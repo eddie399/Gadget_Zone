@@ -17,7 +17,7 @@
 
 
 .bg{
-  background: url('./assets/images/heroBg.png');
+  background: url('/images/heroBg.png');
   background-size: cover;
   background-position: center;
   width: 100%;
